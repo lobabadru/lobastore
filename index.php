@@ -286,7 +286,7 @@ include('include/header.php');
                <div class="container">
                   <div class="row">
                      <div class="col-md-12">
-                        <p>© 2019 All Rights Reserved. Design by<a href="https://html.design/"> Badru oluwatobi</a></p>
+                        <p> Badru oluwatobi</a></p>
                      </div>
                   </div>
                </div>
