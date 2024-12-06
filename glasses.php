@@ -86,8 +86,8 @@ include('include/header.php');
                   <div class="col-md-8 offset-md-2">
                      <ul class="location_icon">
                         <li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i></a><br> Location</li>
-                        <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i></a><br> +01 1234567890</li>
-                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a><br> demo@gmail.com</li>
+                        <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i></a><br> +2349040237116</li>
+                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a><br> Tobiibadru@gmail.com</li>
                      </ul>
                   </div>
                </div>
