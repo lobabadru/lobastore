@@ -158,7 +158,7 @@ include('include/header.php');
                <div class="col-md-12">
                   <div class="titlepage">
                      <h2>What say our clients</h2>
-                     <p>orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut la</p>
+                     <p> Here is our quality item</p>
                   </div>
                </div>
             </div>
